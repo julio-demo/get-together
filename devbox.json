@@ -9,6 +9,12 @@
       "echo 'Welcome to devbox!' > /dev/null"
     ],
     "scripts": {
+      "hello-py": [
+        "python hello.py"
+      ],
+      "hello-java": [
+        "java hello.java"
+      ],
       "test": [
         "echo \"Error: no test specified\" && exit 1"
       ]
