@@ -1,2 +1,4 @@
 # get-together
-Let's hang out somewhere
+
+Let's hang out somewhere and build some code!
+
